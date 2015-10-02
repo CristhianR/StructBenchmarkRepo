@@ -37,8 +37,7 @@ public class PruebaALVTree {
         System.out.println("TiempoFinal: " + tiempo2);
         System.out.print("Tiempo tardado: ");
         System.out.println(tiempo2-tiempo);
-        
-        
+            
     }
     
 }

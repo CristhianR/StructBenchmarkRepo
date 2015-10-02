@@ -31,9 +31,7 @@ public class PruebaALVTree {
         arbol.preOrden(arbol.getRoot());
         
         arbol.Eliminar(10);
-        arbol.preOrden(arbol.getRoot());
-        
-        
+        arbol.preOrden(arbol.getRoot());                
         
         long tiempo2 = System.nanoTime();
         System.out.println("TiempoFinal: " + tiempo2);
